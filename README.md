@@ -342,28 +342,6 @@ LLM 재생성
 
 ---
 
-# 실행 방법
-
-## 과제 2
-
-```bash
-python task2.py
-```
-
-## 과제 3
-
-```bash
-python task3.py
-```
-
-## 통합 버전
-
-```bash
-python integration_pipeline.py
-```
-
----
-
 # 결과
 
 * 공통 스키마 생성
