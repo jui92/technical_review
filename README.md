@@ -1,5 +1,3 @@
-# technical_review
-
 # Snapscale Technical Assignment
 
 스냅스케일 기술 과제 제출 자료입니다.
